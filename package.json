@@ -1,0 +1,22 @@
+{
+  "name": "imber-charts",
+  "version": "0.1.0",
+  "description": "Chart library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ImberTech/imber-charts.git"
+  },
+  "keywords": [
+    "charts"
+  ],
+  "author": "ImberTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImberTech/imber-charts/issues"
+  },
+  "homepage": "https://github.com/ImberTech/imber-charts#readme"
+}
